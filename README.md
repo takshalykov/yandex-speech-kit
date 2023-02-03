@@ -4,8 +4,11 @@ Python script for working with Yandex SpeechKit API v1
 ## Prepare
 
 Install SoX https://sox.sourceforge.net/ and add environment PATH
+
 Register on Yandex Cloud https://cloud.yandex.ru/ and create catalog
+
 Install Yandex CLI https://cloud.yandex.ru/docs/cli/quickstart#install
+
 Get IAM token https://cloud.yandex.ru/docs/iam/operations/iam-token/create
 
 ## Run
